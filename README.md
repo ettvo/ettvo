@@ -1,6 +1,6 @@
 Hello, I'm Evelyn Vo, a software developer pursuing my Bachelors in Computer Science with a focus in machine learning. 
 
-I'm interested in AI, machine learning, database systems, and OS development. 
+I'm interested in AI, machine learning, database systems, cybersecurity, and OS development. 
 
 Languages I've worked with:
 - Python
