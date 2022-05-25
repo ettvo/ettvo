@@ -2,13 +2,12 @@ Hello, I'm Evelyn Vo, a software developer pursuing my Bachelors in Computer Sci
 
 I'm interested in AI, machine learning, database systems, cybersecurity, and OS development. 
 
-Languages I've worked with:
+Languages in my GitHub repos:
 - Python
 - Java
 - C
 - Scheme
 - RISC-V Assembly
-- HTML
 
 Outside of tech, I'm also interested in:
 - learning languages (I've studied Japanese, French, and Mandarin Chinese to varying degrees. I'm currently focusing on Mandarin.)
