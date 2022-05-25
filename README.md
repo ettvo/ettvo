@@ -1,7 +1,5 @@
 Hello, I'm Evelyn Vo, a software developer pursuing my Bachelors in Computer Science with a focus in machine learning. 
 
-To see all of my repos, including the private ones, head over to https://github.com/ettvo-resume.
-
 I'm interested in AI, machine learning, database systems, cybersecurity, and OS development. 
 
 Languages I've worked with:
